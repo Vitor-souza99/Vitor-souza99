@@ -4,6 +4,7 @@
 
 - 🤖 Estudando Análise e Desenvolvimento de Sistemas
 - 👻 Aprendendo Web Design & front-end
+- 📃 Currículo no QR code
 
 <div align="center">
   <a href="https://github.com/Vitor-souza99">
@@ -20,7 +21,7 @@
   <img align="center" alt="Vitor-Can" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
   <img align="center" alt="Vitor-Ps" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
   <img align="center" alt="Vitor-Sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> 
-  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/ca3a24b9a13c0aea96ec4c2f2ee781bf.gif" align="right" width="180" height="180" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/">https://picasion.com/</a>
+  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/6c6c0e027a3d1e630a79a8de41b3427c.gif" align="right" width="250" height="250" border="0" alt="https://picasion.com/" /></a><br />
 </div>
   
   ##
