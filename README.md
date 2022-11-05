@@ -21,7 +21,7 @@
   <img align="center" alt="Vitor-Can" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
   <img align="center" alt="Vitor-Ps" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
   <img align="center" alt="Vitor-Sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> 
-  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/6c6c0e027a3d1e630a79a8de41b3427c.gif" align="right" width="250" height="250" border="0" alt="https://picasion.com/" /></a><br />
+  <a href=""><img src="https://i.picasion.com/pic92/6c6c0e027a3d1e630a79a8de41b3427c.gif" align="right" width="250" height="250" border="0" alt="https://picasion.com/" /></a><br />
 </div>
   
   ##
