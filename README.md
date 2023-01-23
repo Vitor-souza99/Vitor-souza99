@@ -4,7 +4,7 @@
 
 - 🤖 Estudando Análise e Desenvolvimento de Sistemas
 - 👻 Aprendendo Web Design & front-end
-- 📃 Currículo no QR code
+- 📃 Portfólio no QR code
 
 <div align="center">
   <a href="https://github.com/Vitor-souza99">
@@ -32,6 +32,7 @@
   <a href="https://www.linkedin.com/in/vitor-lisboa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.facebook.com/VitorLSouza99" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
     <a href="https://api.whatsapp.com/send?phone=5519987217844&text=Ol%C3%A1%20Vitor%2C%20tudo%20bem%3F%20" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+   <a href="https://www.behance.net/vitor_souza23" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a> 
    
    ![Snake animation](https://github.com/vitor-souza99/vitor-souza/blob/output/github-contribution-grid-snake.svg)
    
