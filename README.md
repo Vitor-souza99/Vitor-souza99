@@ -31,7 +31,9 @@
   <a href="https://www.linkedin.com/in/vitor-lisboa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
     <a href="https://api.whatsapp.com/send?phone=5519987217844&text=Ol%C3%A1%20Vitor%2C%20tudo%20bem%3F%20" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
    <a href="https://www.behance.net/vitor_souza23" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a> 
-   <a href="[https://curriculo-vitor.netlify.app/](https://www.credly.com/badges/9551e8fd-bef9-4e96-b353-1311d3681ce6)"><img src="[https://i.picasion.com/pic92/6c6c0e027a3d1e630a79a8de41b3427c.gif](https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)" align="right" width="100" height="100" border="0" alt="https://picasion.com/" /></a><br />
+   <div>
+   <a href="https://www.credly.com/badges/9551e8fd-bef9-4e96-b353-1311d3681ce6"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" align="left" width="100" height="100" border="0" alt=""/></a><br />
+   </div>
    
    ![Snake animation](https://github.com/vitor-souza99/vitor-souza/blob/output/github-contribution-grid-snake.svg)
    
