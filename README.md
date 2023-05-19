@@ -2,8 +2,8 @@
 ## Seja bem vindo ao meu portfólio 😀
 
 
-- 🤖 Estudando Análise e Desenvolvimento de Sistemas
-- 👻 Aprendendo Web Design & front-end
+- 🤖 Graduando em Análise e Desenvolvimento de Sistemas
+- 👻 Estudando DevOps, python e conhecimento em Front-End
 - 📃 Portfólio no QR code
 
 <div align="center">
