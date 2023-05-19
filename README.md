@@ -3,7 +3,7 @@
 
 
 - 🤖 Graduando em Análise e Desenvolvimento de Sistemas
-- 👻 Estudando ferramentas DevOps, Python e conhecimento em Front-End
+- 👻 Estudando ferramentas DevOps, AWS, Python e conhecimento em Front-End
 - 📃 Portfólio no QR code
 
 <div align="center">
