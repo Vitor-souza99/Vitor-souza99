@@ -36,7 +36,7 @@
    <a href="https://www.credly.com/badges/9551e8fd-bef9-4e96-b353-1311d3681ce6"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" align="left" width="100" height="100" border="0" alt=""/></a><br />
    </div>
    
-   ![Snake animation](https://github.com/vitor-souza99/vitor-souza/blob/output/github-contribution-grid-snake.svg)
+
    
   </div>
   
